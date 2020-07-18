@@ -1,3 +1,3 @@
 FROM dockersample/static-site
-ENV AUTHOR="nao"
+ENV AUTHOR="nao:can"
 
